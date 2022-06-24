@@ -387,7 +387,7 @@ async def get_shortlink(link):
         https = "https"
         link = link.replace("http", https)
     url = f'https://du-link.in/api'
-    params = {'api': '5486d155f5186ac5e5bf128f8a54d72fe3680a28',
+    params = {'api': '7b81a0b114abd1f84c19452a18699686c1b4b7b5',
               'url': link,
               }
 
