@@ -10,27 +10,21 @@ class script(object):
 
     ABOUT_TXT = """🤖 ʙᴏᴛ ɴᴀᴍᴇ: {}
 
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/Sridhar_sm18>SRIDHAR SM18</a>
-
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-
-📝 ʟᴀɴɢᴜᴀɢᴇ: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-
-🗂️ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-
-📡 ʜᴏsᴛᴇᴅ ᴏɴ: 𝙷𝙴𝚁𝙾𝙺𝚄
-
-👥 sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ: <a href=https://t.me/srilinks4ksupport>SUPPORT</a>"""
+○ 𝖬𝗒 𝖭𝖺𝗆𝖾 : <a href=https://t.me/{}>{}</a>,
+○ 𝖣𝖾𝗏𝖾𝗅𝗈𝗉𝖾𝗋 : <a href=https://t.me/Sridhar_sm18>SRIDHAR SM18</a>
+○ 𝖫𝖺𝗇𝗀𝗎𝖺𝗀𝖾 : 𝖯𝗒𝗍𝗁𝗈𝗇 𝟥 
+○ 𝖫𝗂𝖻𝗋𝖺𝗋𝗒 : 𝖯𝗒𝗋𝗈𝗀𝗋𝖺𝗆
+○ 𝖲𝖾𝗋𝗏𝖾𝗋 : 𝖧𝖾𝗋𝗈𝗄𝗎
+○ 𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾 : 𝖬𝗈𝗇𝗀𝗈𝖣𝖡 
+○ 𝖡𝗎𝗂𝗅𝖽 𝖲𝗍𝖺𝗍𝗎𝗌 : 𝖵9.8 [BeTa]"""
 
     SOURCE_TXT = """<b>NOTE:</b>
 
-- SM18FILTERBOT is a not open source project. 
+- 𝖳𝗁𝗂𝗌 𝖡𝗈𝗍 𝖭𝗈𝗍 𝖠 𝖮𝗉𝖾𝗇 𝖲𝗈𝗎𝗋𝖼𝖾 𝖯𝗋𝗈𝗃𝖾𝖼𝗍 🤧
 
-- Source - https://t.me/srilinks4k
+<b>BOT OWNER :</b>
 
-<b>DEVS:</b>
-
-- <a href=https://t.me/sridhar_sm18>SRIDHAR SM18</a>"""
+- <a href=https://t.me/dada_offil>DADA BHAI</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -38,7 +32,7 @@ class script(object):
 
 <b>NOTE:</b>
 
-1. SM18FILTERBOT hould have admin privillage.
+1. DadaFilterRobot hould have admin privillage.
 
 2. only admins can add filters in a chat.
 
@@ -68,7 +62,7 @@ class script(object):
 
 <b>URL buttons:</b>
 
-<code>[Button Text](buttonurl:https://t.me/Sm18filterbot)</code>
+<code>[Button Text](buttonurl:https://t.me/DadaFilter_Robot)</code>
 
 <b>Alert buttons:</b>
 
@@ -154,13 +148,10 @@ This module only works for my admins
 
     STATUS_TXT = """📁 ᴛᴏᴛᴀʟ ꜰɪʟᴇs: <code>{}</code>
 
-👤 ᴛᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
-
-👥 ᴛᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
-
-⚙️ ᴜsᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱
-
-🆓 ꜰʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱"""
+👤 Tᴏᴛᴀʟ ᴜsᴇʀs: <code>{}</code>
+👥 Tᴏᴛᴀʟ ᴄʜᴀᴛs: <code>{}</code>
+⚙️ Usᴇᴅ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱
+🆓 Fʀᴇᴇ sᴛᴏʀᴀɢᴇ: <code>{}</code> 𝙼𝚒𝙱"""
 
     LOG_TEXT_G = """#NewGroup
 
