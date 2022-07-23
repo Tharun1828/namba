@@ -6,14 +6,14 @@ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ....! 🍂
 Tᴏ Usᴇ Mᴇ Iɴ PM Usᴇ Tʜᴇ /connect Cᴏᴍᴍᴀɴᴅ Aɴᴅ Yᴏᴜ Cᴀɴ Mᴏᴅɪғʏ AᴜᴛᴏFɪʟᴛᴇʀ Sᴇᴛᴛɪɴɢs Aɴᴅ Aᴅᴅ Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀs </b>♥️🔥"""
     START_TXT = """<b>✥ Hᴇʟʟᴏ Mʏ Fʀɪᴇɴᴅ {} ✥
  
-✥ Mʏ Nᴀᴍᴇ Iꜱ [『 𝗔𝗨𝗧𝗢 𝗙𝗜𝗟𝗧𝗘𝗥 』](https://t.me/kr_Uploader_Bot) ✥
+✥ Mʏ Nᴀᴍᴇ Iꜱ <a href=https://t.me/auto_filter_sk_bot>『 𝗔𝗨𝗧𝗢 𝗙𝗜𝗟𝗧𝗘𝗥 』</a> ✥
 ✥ ɪ Cᴀɴ Pʀᴏᴠɪᴅᴇ Yᴏᴜ Mᴏᴠɪᴇꜱ Jᴜꜱᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ 
 
 ✥ Sᴇᴇ Mʏ Pᴏᴡᴇʀ ⚡.... 
 
 ✥ Usᴇ Hᴇʟᴘ Bᴜᴛᴛᴏɴ Tᴏ Kɴᴏᴡ Hᴏᴡ Tᴏ Usᴇ Mᴇ 
 
-✥ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : [𝗞𝗥 ⚠︎ 𝗕ᴏᴛᴢ](https://t.me/kr_botz) </b> 
+✥ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : <a href=https://t.me/kr_botz>𝗞𝗥 ⚠︎ 𝗕ᴏᴛᴢ</a> </b> 
 
 """
     HELP_TXT = """𝙷𝙴𝚈 {}
