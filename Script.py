@@ -4,36 +4,34 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>『 Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ �
 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ....! 🍂
 
 Tᴏ Usᴇ Mᴇ Iɴ PM Usᴇ Tʜᴇ /connect Cᴏᴍᴍᴀɴᴅ Aɴᴅ Yᴏᴜ Cᴀɴ Mᴏᴅɪғʏ AᴜᴛᴏFɪʟᴛᴇʀ Sᴇᴛᴛɪɴɢs Aɴᴅ Aᴅᴅ Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀs </b>♥️🔥"""
-    START_TXT = """<b>Hᴇʏ 👋 {} Bᴜᴅᴅʏ 💝
+    START_TXT = """<b>✥ Hᴇʟʟᴏ Mʏ Fʀɪᴇɴᴅ {} ✥
+ 
+✥ Mʏ Nᴀᴍᴇ Iꜱ [『 𝗔𝗨𝗧𝗢 𝗙𝗜𝗟𝗧𝗘𝗥 』](https://t.me/kr_Uploader_Bot) ✥
+✥ ɪ Cᴀɴ Pʀᴏᴠɪᴅᴇ Yᴏᴜ Mᴏᴠɪᴇꜱ Jᴜꜱᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ 
 
-Mʏ Nᴀᴍᴇ ɪꜱ  <a href=https://t.me/{}>『 Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ 』</a> ɪ Cᴀɴ Pʀᴏᴠɪᴅᴇ Yᴏᴜ Mᴏᴠɪᴇꜱ Jᴜꜱᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ Sᴇᴇ Mʏ Pᴏᴡᴇʀ 💗</b>"""
+✥ Sᴇᴇ Mʏ Pᴏᴡᴇʀ ⚡.... 
+
+✥ Usᴇ Hᴇʟᴘ Bᴜᴛᴛᴏɴ Tᴏ Kɴᴏᴡ Hᴏᴡ Tᴏ Usᴇ Mᴇ 
+
+✥ Mᴀɪɴᴛᴀɪɴᴇᴅ Bʏ : [𝗞𝗥 ⚠︎ 𝗕ᴏᴛᴢ](https://t.me/kr_botz) </b> 
+
+"""
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b>╭─━━━─❪ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 ❫─━━━─⍟
-┃
-┣⪼ Mʏ ɴᴀᴍᴇ : TAMIL 3D MOVIES
-┃
-┣⪼ Oᴡɴᴇʀ : <a href='https://telegram.dog/happy_kid_sk'>Hᴀᴘᴘʏ 🧛‍♂️ Kɪᴅ</a>
-┃
-┣⪼ Cʜᴀɴɴᴇʟ :<a href='https://t.me/kr_botz'>KR ⚠︎ Bᴏᴛᴢ</a>
-┃
-┣⪼ Sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/+4FN95cDmy4IwZDll'>KR_Sᴜᴘᴘᴏʀᴛ</a>
-┃
-┣⪼ Vᴇʀꜱɪᴏɴ : 1.0.0 [ Bᴇᴛᴀ ]
-┃
-┣⪼ Sᴇʀᴠᴇʀ : Hᴇʀᴏᴋᴜ
-┃
-┣⪼ Lᴀɴɢᴜᴀɢᴇ : Pʏᴛʜᴏɴ 3.10.5
-┃
-┣⪼ Fʀᴀᴍᴇᴡᴏʀᴋ : Pʏʀᴏɢʀᴀᴍ 1.4.16
-┃
-┣⪼ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.dog/LastDrogz'>Lᴀsᴛ 🐲 Dʀᴏɢᴢ</a>
-┃
-┣⪼ Pᴏᴡᴇʀᴇᴅ ʙʏ : @BGM_LinkzZ 
-┃
-┣⪼ Lᴀᴜɴᴄʜ Oɴ : [ 26.05.2022 ] 7:28 PM
-┃
-╰─━━─❪ @KR_Botz ❫─━━─⍟ </b>"""
+    ABOUT_TXT = """<b>
+╔════❰ 𝗔𝗨𝗧𝗢 𝗙𝗜𝗟𝗧𝗘𝗥 ❱═❍
+║╭━━━━━━━━━━━━━━━➣
+║┣⪼🤖 ᴍʏ ɴᴀᴍᴇ : {}
+║┣⪼👦 Oᴡɴᴇʀ : <a href=https://t.me/tamil_kid>ђ ค ℘ ℘ ꪗ 💥 Ҝ|ᗪ</a>
+║┣⪼👨‍💻 Dᴇᴠ : <a href=https://t.me/LastDrogz>Lᴀsᴛ 🐲 Dʀᴏɢᴢ</a>
+║┣⪼📢 Uᴘᴅᴀᴛᴇ : <a href=https://t.me/kr_botz>𝗞𝗥 ⚠︎ 𝗕ᴏᴛᴢ</a>
+║┣⪼❣️ Sᴜᴘᴘᴏʀᴛ : <a href=https://t.me/kr_join>𝗞𝗥 👽 𝗝ᴏɪɴ</a>
+║┣⪼📡 Hᴏsᴛᴇᴅ Oɴ : <a href=https://dashboard.heroku.com>Hᴇʀᴏᴋᴜ</a>
+║┣⪼🗣️ Lᴀɴɢᴜᴀɢᴇ : <a href=https://www.python.org>Pʏᴛʜᴏɴ3</a>
+║┣⪼📚 Lɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>Pʏʀᴏɢʀᴀᴍ</a>  
+║┣⪼🗒️ Vᴇʀsɪᴏɴ : V  𝟷.𝟷.𝟶
+║╰━━━━━━━━━━━━━━━➣
+╚════❰ BGM_LinkzZ ❱════❍ </b> """
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
