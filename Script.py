@@ -1,9 +1,15 @@
 class script(object):
-    SOURCE_TXT = """<b>Hᴇʟʟᴏ Mʏ Fʀɪᴇɴᴅ {}
-Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>『 Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ 』</a> I Aᴍ A Cᴏᴍᴘʟᴇᴛᴇ  AᴜᴛᴏFɪʟᴛᴇʀ + MᴀɴᴜᴀʟFɪʟᴛᴇʀ + FɪʟᴇSʜᴀʀᴇ  ʙᴏᴛ Aʟʟ Yᴏᴜ Hᴀᴠᴇ Tᴏ Dᴏ Is 
-Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ....! 🍂
+    SOURCE_TXT = """<b>NOTE:
 
-Tᴏ Usᴇ Mᴇ Iɴ PM Usᴇ Tʜᴇ /connect Cᴏᴍᴍᴀɴᴅ Aɴᴅ Yᴏᴜ Cᴀɴ Mᴏᴅɪғʏ AᴜᴛᴏFɪʟᴛᴇʀ Sᴇᴛᴛɪɴɢs Aɴᴅ Aᴅᴅ Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀs </b>♥️🔥"""
+- Tʜɪs Bᴏᴛ Wᴀs Pʀɪᴠᴀᴛᴇ Rᴇᴘᴏ. 
+
+- Sᴏᴜʀᴄᴇ - t.me/KR_Botz
+
+DEVS:
+
+- <a href=https://t.me/kr_botz>𝗞𝗥 ⚠︎ 𝗕ᴏᴛᴢ</a>
+<a href=https://t.me/tamil_kid>Aᴅᴍɪɴ</a> </b>
+"""
     START_TXT = """<b>✥ Hᴇʟʟᴏ Mʏ Fʀɪᴇɴᴅ {} ✥
  
 ✥ Mʏ Nᴀᴍᴇ Iꜱ <a href=https://t.me/auto_filter_sk_bot>『 𝗔𝗨𝗧𝗢 𝗙𝗜𝗟𝗧𝗘𝗥 』</a> ✥
