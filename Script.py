@@ -1,4 +1,10 @@
 class script(object):
+    START_SK_TXT = """
+<b>Hᴇʟʟᴏ Mʏ Fʀɪᴇɴᴅ {}
+Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>『 Aᴜᴛᴏ Fɪʟᴛᴇʀ Bᴏᴛ 』</a> I Aᴍ A Cᴏᴍᴘʟᴇᴛᴇ  AᴜᴛᴏFɪʟᴛᴇʀ + MᴀɴᴜᴀʟFɪʟᴛᴇʀ + FɪʟᴇSʜᴀʀᴇ  ʙᴏᴛ Aʟʟ Yᴏᴜ Hᴀᴠᴇ Tᴏ Dᴏ Is 
+Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ As Aᴅᴍɪɴ....! 🍂
+Tᴏ Usᴇ Mᴇ Iɴ PM Usᴇ Tʜᴇ /connect Cᴏᴍᴍᴀɴᴅ Aɴᴅ Yᴏᴜ Cᴀɴ Mᴏᴅɪғʏ AᴜᴛᴏFɪʟᴛᴇʀ Sᴇᴛᴛɪɴɢs Aɴᴅ Aᴅᴅ Mᴀɴᴜᴀʟ Fɪʟᴛᴇʀs </b>♥️🔥
+"""
     SOURCE_TXT = """<b>NOTE:
 
 - Tʜɪs Bᴏᴛ Wᴀs Pʀɪᴠᴀᴛᴇ Rᴇᴘᴏ. 
