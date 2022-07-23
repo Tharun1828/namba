@@ -7,7 +7,8 @@ Tᴏ Usᴇ Mᴇ Iɴ PM Usᴇ Tʜᴇ /connect Cᴏᴍᴍᴀɴᴅ Aɴᴅ Yᴏᴜ C
     START_TXT = """<b>✥ Hᴇʟʟᴏ Mʏ Fʀɪᴇɴᴅ {} ✥
  
 ✥ Mʏ Nᴀᴍᴇ Iꜱ <a href=https://t.me/auto_filter_sk_bot>『 𝗔𝗨𝗧𝗢 𝗙𝗜𝗟𝗧𝗘𝗥 』</a> ✥
-✥ ɪ Cᴀɴ Pʀᴏᴠɪᴅᴇ Yᴏᴜ Mᴏᴠɪᴇꜱ Jᴜꜱᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ Aɴᴅ 
+
+✥ ɪ Cᴀɴ Pʀᴏᴠɪᴅᴇ Yᴏᴜ Mᴏᴠɪᴇꜱ Jᴜꜱᴛ Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴘ
 
 ✥ Sᴇᴇ Mʏ Pᴏᴡᴇʀ ⚡.... 
 
@@ -31,7 +32,7 @@ Tᴏ Usᴇ Mᴇ Iɴ PM Usᴇ Tʜᴇ /connect Cᴏᴍᴍᴀɴᴅ Aɴᴅ Yᴏᴜ C
 ║┣⪼📚 Lɪʙʀᴀʀʏ : <a href=https://github.com/pyrogram>Pʏʀᴏɢʀᴀᴍ</a>  
 ║┣⪼🗒️ Vᴇʀsɪᴏɴ : V  𝟷.𝟷.𝟶
 ║╰━━━━━━━━━━━━━━━➣
-╚════❰ BGM_LinkzZ ❱════❍ </b> """
+╚════❰ @BGM_LinkzZ ❱════❍ </b> """
     DONATION_TXT = """<b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧 & 𝐏𝐚𝐢𝐝 𝐏𝐫𝐨𝐦𝐨𝐭𝐢𝐨𝐧</b> 
 
 ›› <b>𝐃𝐨𝐧𝐚𝐭𝐢𝐨𝐧</b>
@@ -288,7 +289,7 @@ This module only works for my admins
 │
 ├⍟ Tᴏᴛᴀʟ Gʀᴏᴜᴘs : <code>{}</code>
 │
-├⍟ Dɪꜱᴋ Sɪᴢᴇ : <code> 500.42 GB </code>
+├⍟ Dɪꜱᴋ Sɪᴢᴇ : <code> 500.42 MB </code>
 │
 ├⍟ Dɪꜱᴋ Uꜱᴇᴅ : <code>{}</code>
 │
