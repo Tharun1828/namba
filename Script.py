@@ -2,14 +2,14 @@ class script(object):
     START_TXT = """<b> Hᴇʟʟᴏ Nᴀɴʙᴀ & Nᴀɴʙɪ {} 👋
 Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a> , I Cᴀɴ Pʀᴏᴠɪᴅᴇ Mᴏᴠɪᴇs
 
-👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Rocky_Umar75>🏴‍☠️ 𝑹𝛩𝐂𝛫𝐘༻ᴳᵒᵈ</a> </b> """
+👨‍💻 Dᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/Cra_zy_king>🏴‍☠️ 𝑪𝑹𝑨𝒁𝒀༻𝜥𝒊𝒏𝒈</a> </b> """
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """ <b>╭────[ 𝗔𝗕𝗢𝗨𝗧 𝗠𝗘 ]────⍟
 │
 ├⍟ Mʏ ɴᴀᴍᴇ : {}
 │
-├⍟ Oᴡɴᴇʀ : <a href='https://telegram.dog/Rocky_Umar75'>👑 𝑹𝛩𝐂𝛫𝐘༻ᴳᵒᵈ</a>
+├⍟ Oᴡɴᴇʀ : <a href='https://telegram.dog/Cra_zy_king'>👑 𝑪𝑹𝑨𝒁𝒀༻𝜥𝒊𝒏𝒈</a>
 │
 ├⍟ Vᴇʀꜱɪᴏɴ : 2.2.5 [ Bᴇᴛᴀ ]
 │
@@ -21,22 +21,29 @@ Mʏ Nᴀᴍᴇ Is <a href=https://t.me/{}>{}</a> , I Cᴀɴ Pʀᴏᴠɪᴅᴇ M�
 │
 ├⍟ Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.dog/LastDrogz'>Lᴀsᴛ 🐲 Dʀᴏɢᴢ</a>
 │
-├⍟ Pᴏᴡᴇʀᴇᴅ ʙʏ : @RockyUmar75
+├⍟ Pᴏᴡᴇʀᴇᴅ ʙʏ : @Netflixrockers4link
 │
-╰────[ @VIP_LinkzZ ]────⍟ </b> """
+╰─[ @Netflixrockers4link ]─⍟ </b> """
     SOURCE_TXT = """𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐑𝐨𝐜𝐤𝐲𝐔𝐦𝐚𝐫𝟕𝟓 
 <b>
-<a href=https://t.me/+VQU8ly9zb5s3ZWI1>✓ HD Movies Chennal (Mdisk Type)</a>
+<a href=https://t.me/+J5PR9cP-PTEwNzA1>➠ 𝚃𝚊𝚖𝚒𝚕 𝙽𝚎𝚠 𝙼𝚘𝚟𝚒𝚎𝚜 ➜ </a>
 
-<a href=https://t.me/+5jeK6t-EfqUyNTQ1>✓ HD Movies Chennal (File Type)</a>
+<a href=https://t.me/+6LJWx2eEv181YmM1>➠ 𝙾𝚃𝚃 𝙼𝚘𝚟𝚒𝚎𝚜 & 𝚂𝚎𝚛𝚒𝚎𝚜 ➜ </a>
 
-<a href=https://t.me/+L-xhJOfeTYFjNjA9>✓ Predvd Movies ⇉ Link</a>
+<a href=https://t.me/+mTT3l1crkus2ODA1>➠ 𝚃𝚊𝚖𝚒𝚕 𝙳𝚞𝚋𝚋𝚎𝚍 𝙲𝚘𝚕𝚕𝚎𝚌𝚝𝚒𝚘𝚗𝚜 ➜</a>
+
+<a href=https://t.me/+HtVa07OF7a40Y2U1>➠ 𝙼𝚊𝚕𝚕𝚞 𝙼𝚘𝚟𝚒𝚎𝚜 2.𝙾 𝙷𝙳𝚛𝚒𝚙 ➜</a>
+
+<a href=https://t.me/+y5B3XkCDH1JhODNl>➠ 𝙿𝚛𝚎 𝙳𝚅𝙳 𝙼𝚘𝚟𝚒𝚎𝚜 2.O ➜</a>
+
+<a href=https://t.me/+nn37Q4u_jho4MWY1>➠ 𝚃𝚑𝚊𝚕𝚊𝚙𝚊𝚝𝚑𝚢 66 ➜ </a>
+
 
              ✯ ━━━━━ ♡︎ ━━━━━ ✯ </b>
 
 <b>⭕️ Ꭰɪsᴄʟᴀɪᴍᴇʀ </b> : <code> All The Content in this Channel is Taken From the Internet, We Don't Own Any Content. </code>
 <b>
-Pᴏᴡᴇʀᴇᴅ Bʏ - @RockyUmar75
+Pᴏᴡᴇʀᴇᴅ Bʏ - @Netflixrockers4link
 
 Sʜᴀʀᴇ & Sᴜᴘᴘᴏʀᴛ Us </b> """
     MANUELFILTER_TXT = """Help: <b>Filters</b>
@@ -63,7 +70,7 @@ Sʜᴀʀᴇ & Sᴜᴘᴘᴏʀᴛ Us </b> """
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/RockyUmar75)</code>
+<code>[Button Text](buttonurl:https://t.me/Netflixrockers4link)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -125,7 +132,7 @@ This module only works for my admins
 │
 ├⍟ Fʀᴇᴇ Dɪꜱᴋ : <code>{}</code>
 │
-╰────❪ @RockyUmar75 ❫────⍟ </b>"""
+╰─❪ @Netflixrockers4link ❫─⍟ </b>"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
