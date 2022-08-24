@@ -97,7 +97,7 @@ async def next_page(bot, query):
     # How to Download button
 
     btn.append(
-    [InlineKeyboardButton("𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 🤔", url="https://t.me/RockyUmar75/10"),]
+    [InlineKeyboardButton("𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 🤔", url="https://t.me/Netflixrockers4link/151"),]
 )
 
     if n_offset == 0:
@@ -423,15 +423,13 @@ async def cb_handler(client: Client, query: CallbackQuery):
         await query.answer()
     elif query.data == "start":
         buttons = [[
-            InlineKeyboardButton('+ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ +', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('➕ 𝗔𝗗𝗗 𝗠𝗘 𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ➕', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('Mᴀɪɴ Cʜᴀɴɴᴇʟ', url='https://t.me/+RdZz10HASqRmZDE1'),
-            InlineKeyboardButton('Rᴇǫᴜᴇsᴛ Gʀᴏᴜᴘ', url='https://t.me/+NM7-ngrjHCVlNWNl')
+            InlineKeyboardButton('𝗠𝗔𝗜𝗡 𝗖𝗛𝗔𝗡𝗡𝗘𝗟', url='https://t.me/+gRqJfID_X3c0ZDk9'),
+            InlineKeyboardButton('𝗠𝗢𝗩𝗜𝗘 𝗥𝗘𝗤𝗨𝗘𝗦𝗧', url='https://t.me/+DK3wh369xT9hNjNl')
             ],[
-            InlineKeyboardButton('🔍 Sᴇᴀʀᴄʜ ', switch_inline_query_current_chat='')
-            ],[
-            InlineKeyboardButton('⚙️ Hᴇʟᴘ', callback_data='help'),
-            InlineKeyboardButton('📚 Aʙᴏᴜᴛ', callback_data='about')
+            InlineKeyboardButton('⚙️ 𝗛𝗘𝗟𝗣', callback_data='help'),
+            InlineKeyboardButton('📚 𝗔𝗕𝗢𝗨𝗧', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await query.message.edit_text(
@@ -459,7 +457,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "about":
         buttons = [[
-            InlineKeyboardButton('🤖 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ', url='https://t.me/RockyUmar75'),
+            InlineKeyboardButton('🤖 𝗨𝗽𝗱𝗮𝘁𝗲𝘀 ', url='https://t.me/+gRqJfID_X3c0ZDk9'),
             InlineKeyboardButton('♥️ 𝗦𝗼𝘂𝗿𝗰𝗲', callback_data='source')
         ], [
             InlineKeyboardButton('🏠 𝗛𝗼𝗺𝗲', callback_data='start'),
@@ -684,7 +682,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
 
     btn.append(
-    [InlineKeyboardButton("𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 🤔", url="https://t.me/RockyUmar75/10"),]
+    [InlineKeyboardButton("𝗛𝗢𝗪 𝗧𝗢 𝗗𝗢𝗪𝗡𝗟𝗢𝗔𝗗 🤔", url="https://t.me/Netflixrockers4link/151"),]
 )
 
     if offset != "":
