@@ -384,12 +384,12 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await query.answer('Unblock the bot mahn !', show_alert=True)
         except PeerIdInvalid:
             dulink = await get_shortlink(f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
-            print(dulink)
-            await query.answer(url=dulink)
+            print(shareus)
+            await query.answer(url=shareus)
         except Exception as e:
             dulink = await get_shortlink(f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
-            print(dulink)
-            await query.answer(url=dulink)
+            print(shareus)
+            await query.answer(url=shareus)
     elif query.data.startswith("checksub"):
         if AUTH_CHANNEL and not await is_subscribed(client, query):
             await query.answer("I Like Your Smartness, But Don't Be Oversmart 😒", show_alert=True)
