@@ -1,13 +1,13 @@
 if [ -z $UPSTREAM_REPO ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/SadKidBGMZ/Rocky_Umar75.git /Rocky_Umar75
+  git clone https://github.com/Tharun1828/namba.git /namba
 else
   echo "Cloning Custom Repo from $UPSTREAM_REPO "
-  git clone https://github.com/SadKidBGMZ/Rocky_Umar75
+  git clone https://github.com/Tharun1828/namba
 fi
 ls
-cd SadKidBGMZ/Rocky_Umar75
+cd Tharun1828/namba
 ls
 $PWD
 pip3 install -U -r requirements.txt
